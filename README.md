@@ -25,4 +25,4 @@ My first Python mini projects.
 *Thank you for visiting!*  
 More projects coming soon...
 
-Made with ❤️ by [STEKYYYYYYY HERE !]
+Made with  by [STEKYYYYYYY HERE !]
